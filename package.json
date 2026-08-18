@@ -1,0 +1,11 @@
+{
+  "name": "apex-qa-atribuicao-plano-alimentar",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "cypress": "^15.20.0",
+    "typescript": "^5.8.3"
+  }
+}
