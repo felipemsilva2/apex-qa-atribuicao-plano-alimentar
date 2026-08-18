@@ -44,6 +44,11 @@ npx cypress run --spec cypress/e2e/coach-assign-meal-plan.cy.ts --browser chrome
 
 [Vídeo da execução](evidencias/coach-assign-meal-plan.cy.ts.mp4)
 
+## Registros
+
+- [Issue pública no GitHub](https://github.com/felipemsilva2/apex-qa-atribuicao-plano-alimentar/issues/1)
+- [Issue no Linear — APE-16](https://linear.app/lupet/issue/APE-16/plano-alimentar-anterior-nao-e-desativado-ao-atribuir-novo-modelo)
+
 ## Próximo passo
 
 Depois da correção, a mesma suíte deve voltar a passar com os três cenários. Em seguida, vale cobrir rollback caso a cópia do plano ou das refeições falhe depois da desativação.
